@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "TechPro X200",
+    "price": 499.99,
+    "releaseYear": 2023,
+    "specs": {
+      "screenSize": "6.5 inches",
+      "processor": "Octa-core 2.2GHz",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4500mAh",
+      "camera": {
+        "rear": "64MP + 12MP + 5MP",
+        "front": "16MP"
+      },
+      "os": "Android 13"
+    }
+  },
+  {
+    "id": 2,
+    "name": "MegaPhone Z11 Ultra",
+    "price": 899.99,
+    "releaseYear": 2024,
+    "specs": {
+      "screenSize": "6.9 inches",
+      "processor": "Hexa-core 3.1GHz",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": {
+        "rear": "108MP + 48MP + 20MP",
+        "front": "32MP"
+      },
+      "os": "Android 14"
+    }
+  },
+  {
+    "id": 3,
+    "name": "PhoneMax Elite G5",
+    "price": 749.99,
+    "releaseYear": 2022,
+    "specs": {
+      "screenSize": "6.7 inches",
+      "processor": "Octa-core 2.8GHz",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4700mAh",
+      "camera": {
+        "rear": "50MP + 13MP",
+        "front": "16MP"
+      },
+      "os": "Android 12"
+    }
+  },
+  {
+    "id": 4,
+    "name": "NovaTech LightSpeed 5G",
+    "price": 649.99,
+    "releaseYear": 2023,
+    "specs": {
+      "screenSize": "6.4 inches",
+      "processor": "Octa-core 2.5GHz",
+      "ram": "6GB",
+      "storage": "64GB",
+      "battery": "4000mAh",
+      "camera": {
+        "rear": "48MP + 8MP + 5MP",
+        "front": "13MP"
+      },
+      "os": "Android 13"
+    }
+  },
+  {
+    "id": 5,
+    "name": "HyperTech Aero",
+    "price": 399.99,
+    "releaseYear": 2021,
+    "specs": {
+      "screenSize": "6.1 inches",
+      "processor": "Quad-core 1.8GHz",
+      "ram": "4GB",
+      "storage": "64GB",
+      "battery": "3000mAh",
+      "camera": {
+        "rear": "12MP + 5MP",
+        "front": "8MP"
+      },
+      "os": "Android 11"
+    }
+  }
+]
